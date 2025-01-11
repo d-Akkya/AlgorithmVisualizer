@@ -65,7 +65,8 @@
 <script language="javascript">
             function check(form) { 
                 if(form.pswrd.value == "Strike") {
-                    window.open("Index/index.html")
+					form.action = "./Index/index.html"
+					form.submit();
                 }
                 else {
                     alert("Wrong Password")
