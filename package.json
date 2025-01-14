@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  },
+  "name": "algorithm-visualizer",
+  "version": "1.0.0",
+  "description": "This project helps to understand and learn algorithm easily.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-Akkya/AlgorithmVisualizer.git"
+  },
+  "author": "d-Akkya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d-Akkya/AlgorithmVisualizer/issues"
+  },
+  "homepage": "https://github.com/d-Akkya/AlgorithmVisualizer#readme"
+}
